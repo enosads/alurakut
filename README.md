@@ -69,7 +69,7 @@ export default styled(StyledLink)`
 `
 ```
 
-**pages/index.tsx**
+**pages/index.js**
 
 ```javascript
 import StyledLink from '../components/StyledLink'
