@@ -21,6 +21,6 @@ export const MainGrid = styled.main`
     display: grid;
     grid-template-areas: 
       "profileArea welcomeArea profileRelationsArea";
-    grid-template-columns: 1fr 3fr 2fr;
+    grid-template-columns: 1fr 4fr 2fr;
   }
 `;
